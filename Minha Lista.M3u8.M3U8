@@ -1,0 +1,15 @@
+#EXTM3U
+   channel update="i" site="telecineplay.com.br" site_id="8867" xmltv_id="Telecine Premium FHD">Telecine Premium FHD</channel>
+    <channel update="i" site="telecineplay.com.br" site_id="8966" xmltv_id="Telecine Action FHD">Telecine Action FHD</channel>
+    <channel update="i" site="telecineplay.com.br" site_id="8834" xmltv_id="Telecine Touch FHD">Telecine Touch FHD</channel>
+    <channel update="i" site="telecineplay.com.br" site_id="8933" xmltv_id="Telecine Fun FHD">Telecine Fun FHD</channel>
+    <channel update="i" site="telecineplay.com.br" site_id="8801" xmltv_id="Telecine Pipoca FHD">Telecine Pipoca FHD</channel>
+    <channel update="i" site="telecineplay.com.br" site_id="8900" xmltv_id="Telecine Cult FHD">Telecine Cult FHD</channel>
+	  <channel update="i" site="clarotvmais.com.br" site_id="260" xmltv_id="HBO FHD">HBO FHD</channel>
+    <channel update="i" site="clarotvmais.com.br" site_id="261" xmltv_id="HBO2 FHD">HBO2 FHD</channel>
+    <channel update="i" site="clarotvmais.com.br" site_id="262" xmltv_id="HBO+ FHD">HBO+ FHD</channel>
+    <channel update="i" site="clarotvmais.com.br" site_id="263" xmltv_id="HBO Family FHD">HBO Family FHD</channel>
+    <channel update="i" site="clarotvmais.com.br" site_id="264" xmltv_id="HBO Signature FHD">HBO Signature FHD</channel>
+    <channel update="i" site="clarotvmais.com.br" site_id="265" xmltv_id="HBO Pop FHD">HBO Pop FHD</channel>
+    <channel update="i" site="clarotvmais.com.br" site_id="266" xmltv_id="HBO Mundi FHD">HBO Mundi FHD</channel>
+    <channel update="i" site="clarotvmais.com.br" site_id="267" xmltv_id="HBO Xtreme FHD">HBO Xtreme FHD</channel>
